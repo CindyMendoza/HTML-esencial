@@ -24,8 +24,14 @@ De Lynda html basico mis apuntes.
 * [https://modernizr.com/](https://modernizr.com/) 
 * [https://jquery.com/](https://jquery.com/) 
 * [https://www.online-convert.com/](https://www.online-convert.com/) 
-* [https://stackoverflow.com/](https://stackoverflow.com/) 
+* [https://stackoverflow.com/](https://stackoverflow.com/)
+* [https://convertico.com/](https://convertico.com/)  
 
+
+### Fuentes web
+
+* [https://fonts.google.com/](https://fonts.google.com/) 
+* [https://fonts.adobe.com/](https://fonts.adobe.com/) 
 
 
 
